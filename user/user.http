@@ -1,0 +1,10 @@
+###
+POST http://localhost:8081/users
+Content-Type: application/json
+
+{
+  "name": "Rodolfo Guerra",
+  "email": "xxxxxx@gmail.com"
+}
+
+<> 2024-08-08T213417.201.json
